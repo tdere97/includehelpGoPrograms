@@ -21,6 +21,8 @@ func main() {
 	FarTOCel()
 	LeftRightShift()
 	BitwiseOperator()
+	Circle()
+	Rectangle()
 }
 
 func helloWorld() {
