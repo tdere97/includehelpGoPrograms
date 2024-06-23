@@ -10,6 +10,14 @@ func main() {
 	Avg3Num()
 	Swap2Num()
 	ReadnPrint()
+	AbsValues()
+	Power()
+	LargeSmallNum()
+	CeilFloor()
+	RemMod()
+	EvenOdd()
+	LeapYear()
+	LargeNum()
 }
 
 func helloWorld() {
