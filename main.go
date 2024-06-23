@@ -18,6 +18,9 @@ func main() {
 	EvenOdd()
 	LeapYear()
 	LargeNum()
+	FarTOCel()
+	LeftRightShift()
+	BitwiseOperator()
 }
 
 func helloWorld() {
